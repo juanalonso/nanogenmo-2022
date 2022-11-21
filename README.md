@@ -5,7 +5,7 @@ Partiendo del texto original de «[El bosque animado](https://es.wikipedia.org/w
 
 El resultado es un texto que conserva el realismo mágico de la novela original pero que descompone la trama dotándola de un caracter más onírico.
 
-Puedes leer el [texto recompuesto](https://github.com/juanalonso/nanogenmo-2022/blob/main/el%20bosque%20reanimado.txt) o curiosear el [código](https://github.com/juanalonso/nanogenmo-2022/blob/main/el_bosque_reanimado.py).
+Puedes leer el [texto recompuesto](https://github.com/juanalonso/nanogenmo-2022/blob/main/el%20bosque%20reanimado%20-%2080%20columnas.txt) o curiosear el [código](https://github.com/juanalonso/nanogenmo-2022/blob/main/el_bosque_reanimado.py).
 
 ### Ejemplos
 
