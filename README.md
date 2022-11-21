@@ -5,16 +5,33 @@ Partiendo del texto original de «[El bosque animado](https://es.wikipedia.org/w
 
 El resultado es un texto que conserva el realismo mágico de la novela original pero que descompone la trama dotándola de un caracter más onírico.
 
+Puedes leer el [texto recompuesto](https://github.com/juanalonso/nanogenmo-2022/blob/main/el%20bosque%20reanimado.txt) o curiosear el [código](https://github.com/juanalonso/nanogenmo-2022/blob/main/el_bosque_reanimado.py).
+
 ### Ejemplos
 
-«_El pino, cantando en sordina entre los largos dientes de sus hojas, tenía un papel principal en el coro del bosque y merecía la fama de dominar la onomatopeya. Su propia felicidad, el alborozo pueril de aquella diablura, le movió a decirle al poste:
-—¿No quiere usted cantar con nosotros?_»
+>El pino, cantando en sordina entre los largos dientes de sus hojas, tenía un papel principal en el coro del bosque y merecía la fama de dominar la onomatopeya. Su propia felicidad, el alborozo pueril de aquella diablura, le movió a decirle al poste:
+—¿No quiere usted cantar con nosotros?
 
-«_Pero de sur a norte había unas pequeñas nubes nítidas, con esto los árboles gozan como niños traviesos._»
+---
 
-«_Como si aquel mar tuviese también su plancton, prefirió de su repertorio una canción burlesca: la tierra amarilla se acumulaba en montones cerca del agujero, todavía lejana, entre una nube zumbadora. Es asombroso, porque aunque el estupor que les produjo tan raro acontecimiento les contuvo brevísimos instantes, creyendo que equivocaba el camino._»
+>Pero de sur a norte había unas pequeñas nubes nítidas, con esto los árboles gozan como niños traviesos.
 
-«_El techo se estremecía bajo pisadas frenéticas; su baile consistía en unos pasos menuditos de dirección indecisa, libre de los absorbentes cuidados de ganar la vida y de defenderla._»
+---
+
+>Como si aquel mar tuviese también su plancton, prefirió de su repertorio una canción burlesca: la tierra amarilla se acumulaba en montones cerca del agujero, todavía lejana, entre una nube zumbadora. Es asombroso, porque aunque el estupor que les produjo tan raro acontecimiento les contuvo brevísimos instantes, creyendo que equivocaba el camino.
+
+---
+
+>—Pero... ¿cómo gritarían las flores, si en verdad era mujer y no un espíritu malo?
+
+---
+
+>El techo se estremecía bajo pisadas frenéticas; su baile consistía en unos pasos menuditos de dirección indecisa, libre de los absorbentes cuidados de ganar la vida y de defenderla.
+
+---
+
+>Como si por la delgadez del aire en aquella mañana recién creada le costase más trabajo sostenerse, todos guardan entonces un silencio profundo, y bajo aquella caricia la fraga ronroneó un poquito, que humeaba dípteros.
+
 
 ### Descripción técnica
 #### Proceso de fragmentación
